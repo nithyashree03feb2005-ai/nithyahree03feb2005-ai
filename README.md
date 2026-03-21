@@ -1,6 +1,6 @@
 # nithyahree03feb2005-ai
 <h1 align="center">Hi 👋, I'm Nithyashree</h1>
-<h3 align="center">🎓BCA 3rd Year Student |💻 Aspiring AI&ML Engineer |🚀 Enthuasiest </h3>
+<h3 align="center">🎓BCA 3rd Year Student |💻 Aspiring AI&ML Engineer |🚀 Tech Enthuasiest </h3>
 
 ---
 
