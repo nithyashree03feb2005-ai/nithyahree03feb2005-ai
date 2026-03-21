@@ -12,15 +12,6 @@
 
 ---
 
-## 🚀 Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ML,js,html,css,git,github,vscode,Qoder,Android Studio" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
-</p>
-
----
-
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=nithyashree03feb2005-ai&show_icons=true&theme=tokyonight)
 
