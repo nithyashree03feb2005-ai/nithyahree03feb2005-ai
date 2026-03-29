@@ -23,6 +23,7 @@
 
 ## 📌 Featured Projects
 - 🔹 Student Placement Prediction
+- 🔹 DeepFake Detection System
 
 
 ---
