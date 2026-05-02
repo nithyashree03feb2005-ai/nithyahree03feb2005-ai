@@ -24,8 +24,8 @@
 ## 📌 Featured Projects
 - 🔹 Student Placement Prediction
 - 🔹 DeepFake Detection System
-
-
+- 🔹 Heart Disease Prediction System
+- 🔹 Smart Study Timer App
 ---
 
 ## 🌐 Connect with Me
